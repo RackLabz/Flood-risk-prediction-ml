@@ -1,6 +1,3 @@
-# Flood-risk-prediction-ml
-Flood risk classification with ML + SHAP explainability 
-
 # Flood Risk Prediction (Machine Learning)
 
 Flooding is a major environmental risk, and I wanted to explore how machine learning can help predict flood risk using available environmental and geographic features. This project covers the full workflow from data exploration to model evaluation and explainability.
