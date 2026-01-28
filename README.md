@@ -44,7 +44,7 @@ Build a classification model that can predict whether an area is at risk of floo
 ---
 
 ## Files in This Repo
-- `Flood_Risk_Prediction_main.ipynb` — main notebook (final project)
+- `Flood_Risk_Pred_main.ipynb` — main notebook (final project)
 - `requirements.txt` — Python dependencies
 
 (Optional)
@@ -68,7 +68,7 @@ jupyter notebook
 ```
 ### Then open:
 
-Flood_Risk_Prediction_main.ipynb
+Flood_Risk_Pred_main.ipynb
 
 ### Dataset Notes
 
