@@ -88,7 +88,7 @@ Flood_Risk_Pred_main.ipynb
 
 ### Author
 
-### Shedrack Chinonso (@RackLabz)
+### Ugwuoke Shedrack Chinonso (@RackLabz)
 GitHub: https://github.com/RackLabz
 
 LinkedIn: https://www.linkedin.com/in/shedrack-chinonso-69058219a
