@@ -48,7 +48,7 @@ Build a classification model that can predict whether an area is at risk of floo
 - `requirements.txt` — Python dependencies
 
 (Optional)
-- `images/` — saved plots (ROC curve, confusion matrix, SHAP summary)
+- `images/`  saved plots (ROC curve, confusion matrix, SHAP summary)
 
 ---
 
