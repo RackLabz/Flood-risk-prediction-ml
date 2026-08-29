@@ -44,8 +44,8 @@ Build a classification model that can predict whether an area is at risk of floo
 ---
 
 ## Files in This Repo
-- `Flood_Risk_Pred_main.ipynb` — main notebook (final project)
-- `requirements.txt` — Python dependencies
+- `Flood_Risk_Pred_main.ipynb`: main notebook (final project)
+- `requirements.txt`: Python dependencies
 
 (Optional)
 - `images/`  saved plots (ROC curve, confusion matrix, SHAP summary)
@@ -86,9 +86,11 @@ Flood_Risk_Pred_main.ipynb
 
 - Add more validation runs for stronger reliability
 
-### Author
+### Authors
 
-### Ugwuoke Shedrack Chinonso (@RackLabz)
+### Ugwuoke Shedrack Chinonso (@RackLabz)jeoma
+### Ijeoma Ayalogu
+
 GitHub: https://github.com/RackLabz
 
 LinkedIn: https://www.linkedin.com/in/shedrack-chinonso-69058219a
